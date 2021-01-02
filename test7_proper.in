@@ -1,0 +1,13 @@
+// 16 hints
+// https://www.i-programmer.info/news/181-algorithms/3572-no-16-clue-sudoku.html
+// One cell removed
+
+. . . 8 . 1 . . .
+. . . . . . 4 3 .
+5 . . . . . . . .
+. . . . 7 . 8 . .
+. . . . . . 1 . .
+. 2 . . . . . . .
+6 . . . . . . 7 5
+. . 3 4 . . . . .
+. . . 2 . . 6 . .
